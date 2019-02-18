@@ -1,0 +1,3 @@
+﻿  Kaynak.cpp
+d:\dersler\4. sınıf\8. dönem\veri yapıları ve algoritmalar\kodlar\c++calisma\temelc++uygulamasi\temelc++uygulamasi\kaynak.cpp(72): warning C4244: 'bağımsız değişken': 'time_t' - 'unsigned int' dönüşümü; veri kaybı olabilir
+  temelC++Uygulamasi.vcxproj -> D:\Dersler\4. Sınıf\8. Dönem\Veri Yapıları ve Algoritmalar\Kodlar\C++Calisma\temelC++Uygulamasi\Debug\temelC++Uygulamasi.exe
