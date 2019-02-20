@@ -1,0 +1,5 @@
+﻿  Source.cpp
+d:\dersler\4. sınıf\8. dönem\veri yapıları ve algoritmalar\veriyapilariuygulamalari\kodlar\c++calisma\classdefinitions\classdefinitions\source.cpp(18): warning C4305: '=': truncation from 'double' to 'float'
+d:\dersler\4. sınıf\8. dönem\veri yapıları ve algoritmalar\veriyapilariuygulamalari\kodlar\c++calisma\classdefinitions\classdefinitions\source.cpp(27): warning C4838: conversion from 'int' to 'float' requires a narrowing conversion
+d:\dersler\4. sınıf\8. dönem\veri yapıları ve algoritmalar\veriyapilariuygulamalari\kodlar\c++calisma\classdefinitions\classdefinitions\source.cpp(27): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+  classDefinitions.vcxproj -> D:\Dersler\4. Sınıf\8. Dönem\Veri Yapıları ve Algoritmalar\veriYapilariUygulamalari\Kodlar\C++Calisma\classDefinitions\Debug\classDefinitions.exe
