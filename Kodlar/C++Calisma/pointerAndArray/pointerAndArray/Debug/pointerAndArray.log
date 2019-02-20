@@ -1,0 +1,2 @@
+﻿Source2.obj : error LNK2005: _main already defined in Source.obj
+D:\Dersler\4. Sınıf\8. Dönem\Veri Yapıları ve Algoritmalar\veriYapilariUygulamalari\Kodlar\C++Calisma\pointerAndArray\Debug\pointerAndArray.exe : fatal error LNK1169: one or more multiply defined symbols found
