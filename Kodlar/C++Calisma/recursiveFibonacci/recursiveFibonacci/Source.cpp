@@ -28,7 +28,7 @@ int main() {
 //þimdi bu iþlemi rekürsive olarak yapacaðýz bakalým nasýl bir performansý olacak...
 
 long fibo(unsigned int n) {
-	return n <= 1 ? n : fibo(n - 1) + fibo(n + 2);
+	return n <= 1 ? n : fibo(n - 1) + fibo(n - 2);
 }
 
 int main() {
@@ -36,12 +36,12 @@ int main() {
 	long res;
 	int n;
 
-	for (n = 0; n < 5; n++) {
+	for (n = 0; n < 47; n++) {
 		time(&begin);
 		res = fibo(n);
 		time(&end);
 
-		cout << "%3i\t%9lit%-20.3f\n" << n << res << difftime(end, begin);
+		cout <<  n  << " \t"<< res  << " \t"<< difftime(end, begin)<< endl;
 
 	}
 	system("pause");
