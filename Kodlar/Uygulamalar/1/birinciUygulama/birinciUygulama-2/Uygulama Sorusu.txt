@@ -1,0 +1,13 @@
+Aþaðýdaki B ve M yi dizi ile tanýmlayýp konsolda çýkartýnýz..
+
+
+**** 	**   **
+*   *	*** ***
+**** 	* *** *
+*   * 	*  *  *
+****	*     *
+
+
+
+
+
